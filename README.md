@@ -2,6 +2,8 @@
 
 This Streamlit app allows users to cipher and decipher text using Caesar's algorithm.
 
+![App Screenshot](assets/screenshot.png)
+
 ## How to use
 
 1. Input the text you want to cipher or decipher.
